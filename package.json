@@ -1,6 +1,6 @@
 {
-  "name": "@hashtag/mongonet",
-  "version": "1.0.1",
+  "name": "@hash-tag_org/mongonet",
+  "version": "1.0.2",
   "description": "Connect your mongodb database with netlify cli",
   "main": "index.js",
   "scripts": {
@@ -13,8 +13,8 @@
   "keywords": [
     "mongodb",
     "netlify",
-    "mongowithnetlify",
-    "mn"
+    "mongo-with-netlify",
+    "mongonet"
   ],
   "author": "https://github.com/HashtagOrg",
   "license": "MIT",
