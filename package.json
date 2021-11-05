@@ -1,6 +1,6 @@
 {
-  "name": "@hashtag/mn",
-  "version": "1.0.0",
+  "name": "@hashtag/mongonet",
+  "version": "1.0.1",
   "description": "Connect your mongodb database with netlify cli",
   "main": "index.js",
   "scripts": {
