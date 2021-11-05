@@ -1,0 +1,25 @@
+{
+  "name": "@hashtag/mn",
+  "version": "1.0.0",
+  "description": "Connect your mongodb database with netlify cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HashtagOrg/mongonetlify.git"
+  },
+  "keywords": [
+    "mongodb",
+    "netlify",
+    "mongowithnetlify",
+    "mn"
+  ],
+  "author": "https://github.com/HashtagOrg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HashtagOrg/mongonetlify/issues"
+  },
+  "homepage": "https://github.com/HashtagOrg/mongonetlify#readme"
+}
